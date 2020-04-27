@@ -1,0 +1,1 @@
+This is a collection of exercises from Shelly Powers' book titled JavaScript Cookbook. You can purchase the book from Amazon. I highly recommend this book to maintain your JS skills sharp and learn valuable parts of JS.
